@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "The Hidden Cost of Data Preparation: A Budget-Aware Framework for Building Stronger, More Transparent Machine Learning Pipelines"
+message: "If you use or reference this work, please cite it as below."
+type: report
+authors:
+  - family-names: Baji
+    given-names: Aseem
+year: 2026
+institution: "University of Maryland, Robert H. Smith School of Business"
+url: "https://github.com/aseemwr10/budget-aware-ml-preprocessing"
